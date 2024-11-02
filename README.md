@@ -2,7 +2,8 @@
 
 The objective of this project is to develop a robust model capable of accurately predicting the presence of heart disease in patients. Given a dataset of patient health metrics, the challenge is to classify individuals into two categories: those with heart disease and those without. The focus will be on evaluating different machine learning algorithms to determine which provides the best predictive performance.
 The increasing availability of electronic health records and patient-generated health data presents a unique opportunity to leverage machine learning in the fight against heart disease. By analyzing patterns within this extensive dataset, we can uncover hidden relationships between various health indicators and the likelihood of heart disease. This project not only aims to enhance predictive accuracy but also seeks to contribute to a deeper understanding of the risk factors associated with heart disease. Ultimately, the insights gained from this model could empower healthcare providers to make more informed decisions, tailor treatment plans for individual patients, and implement preventive measures that address the specific needs of at-risk populations.
- 
+
+ 
 2.	Introduction: 
 
 Heart disease is one of the leading causes of mortality worldwide. Early detection and intervention can significantly reduce the risk of severe outcomes. With advancements in technology, machine learning has emerged as a powerful tool for analyzing medical data and predicting health risks. This project aims to leverage machine learning algorithms to predict the presence of heart disease in patients based on various health parameters.
